@@ -19,15 +19,6 @@ O objetivo é verificar se um e-mail informado segue regras de formatação vál
 
 ---
 
-## 📂 Estrutura do Projeto
-email_validator/ ├── email_validator/ │ ├── init.py │ └── validator.py ├── tests/ │ ├── init.py │ └── test_validator.py ├── requirements.txt ├── pytest.ini └── README.md
-
-
-Run
-Copy code
-
----
-
 ## 🧾 Regras de Negócio Testadas
 
 1. O e-mail **deve conter o caractere `@`**.  
@@ -58,12 +49,10 @@ Copy code
 
 ## 🖼️ Relatório de Cobertura (Exemplo)
 
-Adicione no repositório uma captura de tela do terminal com o relatório de cobertura, por exemplo:
-
-assets/coverage.png
+<img width="1086" height="400" alt="image" src="https://github.com/user-attachments/assets/f78ca0eb-1b9e-4df0-b810-5ee6b4f7810a" />
 
 ---
 
-## 👨‍💻 Autor
-**Seu Nome Aqui**  
-Email: seuemail@exemplo.com
+## 👨‍💻 Aluno
+**Miguel Rodrigues Carneiro**  
+Email: miguelrodriguescrn@gmail.com
