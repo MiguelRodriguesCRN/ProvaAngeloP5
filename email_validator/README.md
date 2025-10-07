@@ -47,7 +47,7 @@ Copy code
 
 ---
 
-## 🖼️ Relatório de Cobertura (Exemplo)
+## 🖼️ Relatório de Cobertura
 
 <img width="1086" height="400" alt="image" src="https://github.com/user-attachments/assets/f78ca0eb-1b9e-4df0-b810-5ee6b4f7810a" />
 
